@@ -36,4 +36,3 @@ public class SystemManager implements ISystemManager {
     @Override
     public List<ISupplier> getSuppliers() { return suppliers; }
 }
-
