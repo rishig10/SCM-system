@@ -1,6 +1,6 @@
 # Supply Chain Management System
 
-This project aims to develop a modular, Java-based Supply Chain Management System that allows suppliers to manage products, retailers to place orders, and administrators to process and monitor order fulfillment.
+This project aims to develop a modular, Java-based Supply Chain Management System that allows suppliers to manage products, retailers to place orders, and administrators to process and monitor order fulfillment. Part of coursework - Object Oriented Analysis and Design
 
 ### How To Run
 
